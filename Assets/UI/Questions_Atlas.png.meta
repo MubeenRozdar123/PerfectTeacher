@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 9c33e6eb67431b6459f8e9bf6673c69f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Questions_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 500
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4844d4ed0024b143905965b828749b2
+      internalID: 1871127444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1388
+        width: 501
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6fb5337c5bdeb46a87629e86c0edbb
+      internalID: -1052181927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1373
+        width: 491
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbbd674d02c8fe44b432bb683545eff
+      internalID: -1053357738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1984
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c36375656665c48a09cf397fd08605
+      internalID: 143989787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1359
+        width: 486
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164d546cf7d274746a4dbddb61979a7d
+      internalID: -49658166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1379
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa3ea084db73c04994c9f62e19448b5
+      internalID: -988431052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1379
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12741b6833d9fa34aa5d18b51cf24e4f
+      internalID: 1239882749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1371
+        width: 208
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d94384615966154c9428be39c7aa7cf
+      internalID: -1846983643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1358
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a8306a3e48d24185d71298d09b16f
+      internalID: 1777810418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1364
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fad58eda976874686f6869797a9a90
+      internalID: -251056838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1371
+        width: 203
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ff89a485467a84baf8520ba1ae69e5
+      internalID: 660968212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1369
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0bd20ca90acce4d9b303f1ab0e2abb
+      internalID: -66100710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1358
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f29fed678f0f45aef93d36a82aea9
+      internalID: 2110223624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1364
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea1383d6a766204e9b6326e564b9b7b
+      internalID: -1378296051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1361
+        width: 187
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4276072c404684449d5c2ebfc0672f5
+      internalID: 485423832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1358
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6811d0efa5237c49bf5ab932057cb38
+      internalID: 367878162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1358
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c4be6c00a85a45afdd1909054310e
+      internalID: 1056182678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1352
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c3d31f6d69624ebda27ff1184a228
+      internalID: -1576572869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1348
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e130dc8ea58ac6746aaaca0cfcc1a944
+      internalID: 2139330253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 671
+        width: 506
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df210c9243f2d4d9657a8ca39aa212
+      internalID: 1816484005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1313
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d3b28a208383d44811af1064532fc7
+      internalID: 1399611405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1313
+        width: 218
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba00669fe27ea84892da5155870824d
+      internalID: -498222075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1313
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b0787641f98b439a3f8e070b14a9a
+      internalID: 486824995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1313
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9171178c0dfc84682d45d46bc4950f
+      internalID: 549525262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1297
+        width: 256
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e032b7df0d504ab965a378dbb1943
+      internalID: -817546766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 984
+        width: 17
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982cce880fe9ad469edf9cba9398a52
+      internalID: 1259094971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1203
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a857f0da16cc34444b7c810f8ef587f4
+      internalID: 249867775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 969
+        width: 5
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e01d9de3a4e348b8810937c7f6785
+      internalID: -1550680607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 671
+        width: 504
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a32d077ec8683b488e77d622a0a090e
+      internalID: -978447830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1109
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c723bb6d9ccf3648b1609580574b1ec
+      internalID: -276501923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1047
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f5eaa46278a54098073f4200cdb5f
+      internalID: -2124259321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1000
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d088a47785f204fbe2a921756d843c
+      internalID: 1843401523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 906
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df3ab8732c17e4b945748c2ab0fef3
+      internalID: -1408985331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 766
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b87c2f59c99c4990acbaafc6a912a
+      internalID: 146076527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 750
+        width: 4
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6a14523bbc9a4dbf54e9641ad4e6c
+      internalID: -980908914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 797
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50acdeb116e84843b5b1a98c59de756
+      internalID: -1113588323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 719
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051100cb2e0682f40a72c299dfbebea9
+      internalID: -1771716065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 507
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2197e8ac7276cd4e8e50e5cce064405
+      internalID: -1584840939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 641
+        width: 4
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c845c313d2bc944a80af761280c763
+      internalID: 1246598227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 625
+        width: 9
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a531223c424dfa049abe439717686b4c
+      internalID: 1234429786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 12
+        width: 503
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b59f27af005f745b281dd874a754db
+      internalID: -2142218451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 641
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb96de1157a4624195e9317a2e657c9
+      internalID: 1273802701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 328
+        width: 17
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6aebb77bb5ceb4b8277566a75cffa3
+      internalID: 14163412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 578
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5135805c871747b55cd9041834efe
+      internalID: -220133267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 578
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fdba2d748a6b44ca2acb189bac9455
+      internalID: -1133425838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 516
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707ab59e609710448c542e3b93527ec
+      internalID: 749002581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 516
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71960f0f3d6fec46af9a8645b19a72e
+      internalID: 362082781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 422
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc44d2a29cd60145be15348293aee93
+      internalID: 1877095527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 391
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79727e6952bbc84ebc1d7bf7f36394b
+      internalID: -562823525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 391
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aa0b4dcd546a341afd8c94c1f4710d
+      internalID: 1559613145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 359
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a92c9bd267a9449614226a96711b5
+      internalID: -351987703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 328
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb2cb04a9dcddc449cf0985c2358063
+      internalID: 1004870244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 47
+        width: 8
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0c352630af13f488373f80267654ce
+      internalID: -703827878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 234
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0258c619b52dc3d49a3e75d6a36a8a10
+      internalID: 52809892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 219
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1647786a7cbbd474fb843df627973055
+      internalID: 436199819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 188
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2b0dcbdb415414a84cf1fd44255ec4
+      internalID: 599109606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 188
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a08c3605c7cb45a5df45f2850e332
+      internalID: -1429599813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 125
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce8d0f59ff3a14392139472d372951
+      internalID: -1435933143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 94
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413ada74f83ab24ea6a05ff5a3ecfd5
+      internalID: 1838625932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Questions_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 31
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35871432ec9ad95449eb26cc5b0815b7
+      internalID: 2021923144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 29b4f4e442e48154089d60ea7976b821
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Questions_Atlas_0: 1871127444
+      Questions_Atlas_1: -1052181927
+      Questions_Atlas_10: 660968212
+      Questions_Atlas_11: -66100710
+      Questions_Atlas_12: 2110223624
+      Questions_Atlas_13: -1378296051
+      Questions_Atlas_14: 485423832
+      Questions_Atlas_15: 367878162
+      Questions_Atlas_16: 1056182678
+      Questions_Atlas_17: -1576572869
+      Questions_Atlas_18: 2139330253
+      Questions_Atlas_19: 1816484005
+      Questions_Atlas_2: -1053357738
+      Questions_Atlas_20: 1399611405
+      Questions_Atlas_21: -498222075
+      Questions_Atlas_22: 486824995
+      Questions_Atlas_23: 549525262
+      Questions_Atlas_24: -817546766
+      Questions_Atlas_25: 1259094971
+      Questions_Atlas_26: 249867775
+      Questions_Atlas_27: -1550680607
+      Questions_Atlas_28: -978447830
+      Questions_Atlas_29: -276501923
+      Questions_Atlas_3: 143989787
+      Questions_Atlas_30: -2124259321
+      Questions_Atlas_31: 1843401523
+      Questions_Atlas_32: -1408985331
+      Questions_Atlas_33: 146076527
+      Questions_Atlas_34: -980908914
+      Questions_Atlas_35: -1113588323
+      Questions_Atlas_36: -1771716065
+      Questions_Atlas_37: -1584840939
+      Questions_Atlas_38: 1246598227
+      Questions_Atlas_39: 1234429786
+      Questions_Atlas_4: -49658166
+      Questions_Atlas_40: -2142218451
+      Questions_Atlas_41: 1273802701
+      Questions_Atlas_42: 14163412
+      Questions_Atlas_43: -220133267
+      Questions_Atlas_44: -1133425838
+      Questions_Atlas_45: 749002581
+      Questions_Atlas_46: 362082781
+      Questions_Atlas_47: 1877095527
+      Questions_Atlas_48: -562823525
+      Questions_Atlas_49: 1559613145
+      Questions_Atlas_5: -988431052
+      Questions_Atlas_50: -351987703
+      Questions_Atlas_51: 1004870244
+      Questions_Atlas_52: -703827878
+      Questions_Atlas_53: 52809892
+      Questions_Atlas_54: 436199819
+      Questions_Atlas_55: 599109606
+      Questions_Atlas_56: -1429599813
+      Questions_Atlas_57: -1435933143
+      Questions_Atlas_58: 1838625932
+      Questions_Atlas_59: 2021923144
+      Questions_Atlas_6: 1239882749
+      Questions_Atlas_7: -1846983643
+      Questions_Atlas_8: 1777810418
+      Questions_Atlas_9: -251056838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
