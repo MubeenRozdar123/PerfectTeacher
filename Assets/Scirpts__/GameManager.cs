@@ -92,7 +92,7 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadSceneAsync("Complete");
 
 
-        if (PlayerPrefsManager.LevelUpdate() < 1)
+        if (PlayerPrefsManager.LevelUpdate() < 7)
         {
             PlayerPrefsManager.LevelUpdate(1);
 
